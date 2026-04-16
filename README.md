@@ -1,6 +1,6 @@
 # Web Development Lab 7 - Bet
 
-Submitted by: **Bridjet Walker (ZXXXXXXXX)**
+Submitted by: **Bridjet Walker (Z23672579)**
 
 This web app: **A full-stack forum application called "Bet" where users can create, view, update, and delete challenge posts. Users can also click a Bet button to increase the bet count, and AI analyzes each challenge to assign a spiciness rating and category before saving it to the database.**
 
